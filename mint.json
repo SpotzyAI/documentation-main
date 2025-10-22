@@ -179,23 +179,6 @@
       ]
     },
     {
-      "group": "White Label Program",
-      "pages": [
-        "white-label/overview",
-        "white-label/onboarding",
-        "white-label/plans-setup",
-        "white-label/user-limits",
-        {
-          "group": "Social Logins",
-          "icon": "share-nodes",
-          "pages": [
-            "white-label/social-logins/google",
-            "white-label/social-logins/linkedin"
-          ]
-        }
-      ]
-    },
-    {
       "group": "Troubleshooting & FAQs",
       "pages": [
         "troubleshooting/ai-behavior",
@@ -287,18 +270,6 @@
         "automation-platform/calls-related/spotzyai-tool",
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
-      ]
-    },
-    {
-      "group": "Tutorials",
-      "pages": [
-        "automation-platform/tutorials/outbound-form-call",
-        "automation-platform/tutorials/inbound-context-injection",
-        "automation-platform/tutorials/gohighlevel-leads-automation",
-        "automation-platform/tutorials/google-sheets-sync",
-        "automation-platform/tutorials/post-call-sms-automation",
-        "automation-platform/tutorials/google-sheets-qualified-leads",
-        "automation-platform/tutorials/post-call-email-automation"
       ]
     },
     {
