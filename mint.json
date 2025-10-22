@@ -39,11 +39,6 @@
     "color": "#6c63ff",
     "url": "automation-platform"
   }, {
-    "name": "White Label",
-    "icon": "tag",
-    "color": "#1434A4",
-    "url": "white-label"
-  }, {
     "name": "API Reference",
     "icon": "code",
     "color": "#1434A4",
