@@ -271,17 +271,8 @@
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
       ]
-    },
-    {
-      "group": "Platform updates",
-      "pages": [
-        "releases/index"
-      ]
     }
   ],
-  "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/spotzyai"
-  },
   "api": {
     "baseUrl": "https://platform.spotzyai.com/api/",
     "auth": {
