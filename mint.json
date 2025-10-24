@@ -43,11 +43,6 @@
     "icon": "code",
     "color": "#1434A4",
     "url": "api-reference"
-  }, {
-    "name": "Platform updates",
-    "icon": "scroll",
-    "color": "#1434A4",
-    "url": "releases"
   }],
   "navigation": [{
       "group": "Introduction",
